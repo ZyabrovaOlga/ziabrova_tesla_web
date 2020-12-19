@@ -1,2 +1,2 @@
-# ziabrova_tesla_web
-lending
+# Tesla-Zyabrova
+final project
